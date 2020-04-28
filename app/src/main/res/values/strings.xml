@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Random Dice</string>
+    <string name="dice_list_fragment_label">Table</string>
+    <string name="rules_fragment_label">Rules</string>
+    <string name="about_fragment_label">About</string>
+    <string name="game_over_fragment_label">Game Over</string>
+    <string name="title_fragment_label">Random Dice</string>
+    <string name="game_won_fragment_label">Game Won</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="navigation">Navigation</string>
+    <string name="dice_icon">dice icon</string>
+    <string name="level_text_format">Level: %d</string>
+    <string name="lives_text_format">Lives: %d</string>
+    <string name="welcome_message">Welcome to level %d</string>
+    <string name="game_won">Game Won!</string>
+    <string name="play_again">Play Again</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again</string>
+    <string name="start">Start</string>
+    <string name="about_text">This game is designed for training purpose.
+    \nObjectives:
+    \n - learn NavigationUI(menu, Up button, Drawer, Navigation Graph and slide animation)
+    \n - learn ViewModel architecture
+    \n - create ViewModel using ViewModelProvider
+    \n - implement Observer Pattern
+    \n - data binding between ViewModel and layout.xml
+    \n - data binding using binding adapter
+    \n - playback sound
+    \n - implement recycler view (Grid layout)
+    \n - implement DiffUtil
+    \n - add header and footer to recycler view
+    </string>
+    <string name="rules_text">Try to complete 3 challenges to win the game.
+        \n - Tap a dice to throw it.
+        \n - Tap Menu/Shuffle to throw all dice.</string>
+    <string name="drawer_header_image">drawer header image</string>
+
+
+</resources>
